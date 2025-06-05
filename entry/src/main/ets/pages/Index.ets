@@ -2,6 +2,8 @@
 @Component
 struct Index {
   build() {
+      Column(){
 
+      }
   }
 }
